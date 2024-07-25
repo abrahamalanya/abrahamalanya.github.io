@@ -1,23 +1,22 @@
 // profile--link
 let links = [
-  {
-    name: "github",
-    title: "Repositorio",
-    url: "https://github.com/abrahamalanya",
-    icon: "https://cdn.simpleicons.org/github/black"
-  },
+  // {
+  //   name: "vercel",
+  //   title: "Proyecto Intiweb ☀️",
+  //   url: "https://intiweb-xi.vercel.app/",
+  //   icon: "https://cdn.simpleicons.org/vercel/black"
+  // },
   {
     name: "devto",
-    title: "Blog Dev.to",
+    title: "Blog",
     url: "https://dev.to/pacmankabh",
     icon: "https://cdn.simpleicons.org/devdotto/black"
   },
   {
-    name: "gitlab",
-    title: "Repositorio",
-    url: "https://gitlab.com/abrahamalanya",
-    icon: "https://cdn.simpleicons.org/gitlab/black"
-
+    name: "buymeacoffee",
+    title: "Invítame un café",
+    url: "https://buymeacoffee.com/abrahamalanya",
+    icon: "https://cdn.simpleicons.org/buymeacoffee/black"
   }
 ]
 
@@ -42,24 +41,28 @@ for (let link of links) {
 let socialMediaLinks = [
   {
     name: "linkedin",
+    title: "Linkedin",
     url: "https://www.linkedin.com/in/abrahamalanya/",
-    icon: "https://cdn.simpleicons.org/linkedin/black"
+    icon: "https://cdn.simpleicons.org/linkedin/"
   },
   {
-    name: "instagram",
-    url: "https://www.instagram.com/alanyaabraham/",
-    icon: "https://cdn.simpleicons.org/instagram/black"
+    name: "github",
+    title: "Github",
+    url: "https://github.com/abrahamalanya",
+    icon: "https://cdn.simpleicons.org/github/"
   },
   {
-    name: "facebook",
-    url: "https://www.facebook.com/alanyaabraham/",
-    icon: "https://cdn.simpleicons.org/facebook/black"
+    name: "gitlab",
+    title: "Gitlab",
+    url: "https://gitlab.com/abrahamalanya",
+    icon: "https://cdn.simpleicons.org/gitlab/"
   },
-  {
-    name: "twitter",
-    url: "https://twitter.com/alanya_abraham/",
-    icon: "https://cdn.simpleicons.org/twitter/black"
-  },
+  // {
+  //   name: "x",
+  //   title: "X",
+  //   url: "https://x.com/alanya_abraham/",
+  //   icon: "https://cdn.simpleicons.org/x/"
+  // },
 ];
 
 let ul = document.querySelector("#socialMediaLinks");
