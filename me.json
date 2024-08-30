@@ -1,0 +1,78 @@
+{
+  "name": "Abraham Alanya",
+  "subname": "AbrahamAlanya",
+  "links": [
+    {
+      "name": "vercel",
+      "title": "Proyecto Intiweb ☀️",
+      "url": "https://intiweb-xi.vercel.app/",
+      "icon": "https://cdn.simpleicons.org/vercel/black",
+      "visible": false,
+      "type": "link"
+    },
+    {
+      "name": "gitbook",
+      "title": "Portafolio",
+      "url": "https://abrahamalanya.github.io/portfolio",
+      "icon": "https://cdn.simpleicons.org/gitbook/black",
+      "visible": true,
+      "type": "link"
+    },
+    {
+      "name": "devto",
+      "title": "Blog",
+      "url": "https://dev.to/pacmankabh",
+      "icon": "https://cdn.simpleicons.org/devdotto/black",
+      "visible": true,
+      "type": "link"
+    },
+    {
+      "name": "buymeacoffee",
+      "title": "Invítame un café",
+      "url": "https://buymeacoffee.com/abrahamalanya",
+      "icon": "https://cdn.simpleicons.org/buymeacoffee/black",
+      "visible": true,
+      "type": "link"
+    },
+    {
+      "name": "write.as",
+      "title": "Fragmentos de mi mente",
+      "url": "https://write.as/abrahamalanya/",
+      "icon": "https://cdn.simpleicons.org/writedotas/black",
+      "visible": true,
+      "type": "link"
+    },
+    {
+      "name": "linkedin",
+      "title": "Linkedin",
+      "url": "https://www.linkedin.com/in/abrahamalanya/",
+      "icon": "https://cdn.simpleicons.org/linkedin/",
+      "visible": true,
+      "type": "social"
+    },
+    {
+      "name": "github",
+      "title": "Github",
+      "url": "https://github.com/abrahamalanya",
+      "icon": "https://cdn.simpleicons.org/github/black",
+      "visible": true,
+      "type": "social"
+    },
+    {
+      "name": "gitlab",
+      "title": "Gitlab",
+      "url": "https://gitlab.com/abrahamalanya",
+      "icon": "https://cdn.simpleicons.org/gitlab/",
+      "visible": false,
+      "type": "social"
+    },
+    {
+      "name": "x",
+      "title": "X",
+      "url": "https://x.com/alanya_abraham/",
+      "icon": "https://cdn.simpleicons.org/x/black",
+      "visible": false,
+      "type": "social"
+    }
+  ]
+}
